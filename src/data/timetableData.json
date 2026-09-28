@@ -1,0 +1,1252 @@
+{
+  "semester": {
+    "name": "Odd Semester 2026-2027",
+    "academicYear": "2026-2027",
+    "startDate": "2026-08-29",
+    "endDate": "2026-11-29"
+  },
+  "periodSchedule": [
+    { "period": 1, "startTime": "09:00", "endTime": "09:50", "type": "class", "name": "Period 1" },
+    { "period": 2, "startTime": "09:50", "endTime": "10:40", "type": "class", "name": "Period 2" },
+    { "period": null, "startTime": "10:40", "endTime": "10:50", "type": "break", "name": "Morning Tea Break" },
+    { "period": 3, "startTime": "10:50", "endTime": "11:40", "type": "class", "name": "Period 3" },
+    { "period": 4, "startTime": "11:40", "endTime": "12:30", "type": "class", "name": "Period 4" },
+    { "period": 5, "startTime": "12:30", "endTime": "13:20", "type": "lunch", "name": "Lunch Break" },
+    { "period": 6, "startTime": "13:20", "endTime": "14:10", "type": "class", "name": "Period 6" },
+    { "period": 7, "startTime": "14:10", "endTime": "15:00", "type": "class", "name": "Period 7" },
+    { "period": null, "startTime": "15:00", "endTime": "15:10", "type": "break", "name": "Afternoon Tea Break" },
+    { "period": 8, "startTime": "15:10", "endTime": "16:00", "type": "class", "name": "Period 8" },
+    { "period": 9, "startTime": "16:00", "endTime": "16:50", "type": "class", "name": "Period 9" }
+  ],
+  "sections": [
+    {
+      "sectionName": "II - BME",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester III)",
+      "shift": "Forenoon",
+      "venue": "IST 602 / FN",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21MAB201T",
+          "subjectName": "Transforms and Boundary Value Problems",
+          "faculty": "Dr. A. Manickam",
+          "department": "ASP/MAT",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21BMC202T",
+          "subjectName": "Biomedical Signals and Systems",
+          "faculty": "Dr. Senthil Kumaran V N",
+          "department": "ASP & HOD / ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21BMC203J",
+          "subjectName": "Electric and Electronic Circuits",
+          "faculty": "Dr. Prabin Kumar Bera",
+          "department": "AP/ECE",
+          "credits": "3-0-2-4",
+          "classType": "theory",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21BMC204J",
+          "subjectName": "Digital Logic for Medical Systems",
+          "faculty": "Dr. G. Gifta",
+          "department": "AP/BME",
+          "credits": "2-0-2-3",
+          "classType": "theory",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21PYS202T",
+          "subjectName": "Medical Physics",
+          "faculty": "Dr. D. Rajeswari",
+          "department": "ASP/PHY",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21LEM201T",
+          "subjectName": "Professional Ethics",
+          "faculty": "Dr. H. SriBhuvaneshwari",
+          "department": "AP/ECE",
+          "credits": "1-0-0-0",
+          "classType": "theory",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "G",
+          "subjectCode": "21LEM202T",
+          "subjectName": "Universal Human Values-II",
+          "faculty": "Mrs. N. Suganthi",
+          "department": "RS - ECE",
+          "credits": "2-1-0-3",
+          "classType": "theory",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "H",
+          "subjectCode": "21PDM201L",
+          "subjectName": "Verbal Reasoning",
+          "faculty": "CDC (TB-106)",
+          "department": "CDC",
+          "credits": "0-0-2-0",
+          "classType": "other",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "I",
+          "subjectCode": "21PDH201T",
+          "subjectName": "Social Engineering",
+          "faculty": "Mrs. Francis Arockiya Mary",
+          "department": "RS - EEE",
+          "credits": "2-0-0-2",
+          "classType": "theory",
+          "sectionName": "II - BME"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "DLMS/EEC_LAB",
+          "subjectName": "Digital Logic & Electric Circuits Laboratory",
+          "faculty": "Dr. Prabin Kumar Bera / Dr. G. Gifta",
+          "department": "ECE / BME",
+          "credits": "0-0-4-2",
+          "classType": "lab",
+          "sectionName": "II - BME"
+        }
+      ],
+      "timetable": [
+        { "section": "II - BME", "day": "Monday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "E", "subjectCode": "21PYS202T", "subjectName": "Medical Physics", "classType": "theory" },
+        { "section": "II - BME", "day": "Monday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "C", "subjectCode": "21BMC203J", "subjectName": "Electric and Electronic Circuits", "classType": "theory" },
+        { "section": "II - BME", "day": "Monday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "I", "subjectCode": "21PDH201T", "subjectName": "Social Engineering", "classType": "theory" },
+        { "section": "II - BME", "day": "Monday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "I", "subjectCode": "21PDH201T", "subjectName": "Social Engineering", "classType": "theory" },
+        { "section": "II - BME", "day": "Monday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "LAB", "subjectCode": "DLMS/EEC_LAB", "subjectName": "Digital Logic & Electric Circuits Laboratory", "classType": "lab" },
+        { "section": "II - BME", "day": "Monday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "LAB", "subjectCode": "DLMS/EEC_LAB", "subjectName": "Digital Logic & Electric Circuits Laboratory", "classType": "lab" },
+
+        { "section": "II - BME", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21BMC203J", "subjectName": "Electric and Electronic Circuits", "classType": "theory" },
+        { "section": "II - BME", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "E", "subjectCode": "21PYS202T", "subjectName": "Medical Physics", "classType": "theory" },
+        { "section": "II - BME", "day": "Tuesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "B", "subjectCode": "21BMC202T", "subjectName": "Biomedical Signals and Systems", "classType": "theory" },
+        { "section": "II - BME", "day": "Tuesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - BME", "day": "Tuesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+        { "section": "II - BME", "day": "Tuesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+
+        { "section": "II - BME", "day": "Wednesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "B", "subjectCode": "21BMC202T", "subjectName": "Biomedical Signals and Systems", "classType": "theory" },
+        { "section": "II - BME", "day": "Wednesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "D", "subjectCode": "21BMC204J", "subjectName": "Digital Logic for Medical Systems", "classType": "theory" },
+        { "section": "II - BME", "day": "Wednesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - BME", "day": "Wednesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - BME", "day": "Wednesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+        { "section": "II - BME", "day": "Wednesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+
+        { "section": "II - BME", "day": "Thursday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - BME", "day": "Thursday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "E", "subjectCode": "21PYS202T", "subjectName": "Medical Physics", "classType": "theory" },
+        { "section": "II - BME", "day": "Thursday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "B", "subjectCode": "21BMC202T", "subjectName": "Biomedical Signals and Systems", "classType": "theory" },
+        { "section": "II - BME", "day": "Thursday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "D", "subjectCode": "21BMC204J", "subjectName": "Digital Logic for Medical Systems", "classType": "theory" },
+        { "section": "II - BME", "day": "Thursday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "LAB", "subjectCode": "DLMS/EEC_LAB", "subjectName": "Digital Logic & Electric Circuits Laboratory", "classType": "lab" },
+        { "section": "II - BME", "day": "Thursday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "LAB", "subjectCode": "DLMS/EEC_LAB", "subjectName": "Digital Logic & Electric Circuits Laboratory", "classType": "lab" },
+
+        { "section": "II - BME", "day": "Friday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "F", "subjectCode": "21LEM201T", "subjectName": "Professional Ethics", "classType": "theory" },
+        { "section": "II - BME", "day": "Friday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - BME", "day": "Friday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "C", "subjectCode": "21BMC203J", "subjectName": "Electric and Electronic Circuits", "classType": "theory" },
+        { "section": "II - BME", "day": "Friday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "D", "subjectCode": "21BMC204J", "subjectName": "Digital Logic for Medical Systems", "classType": "theory" },
+        { "section": "II - BME", "day": "Friday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" }
+      ]
+    },
+    {
+      "sectionName": "II - ECE - DS A",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester III)",
+      "shift": "Forenoon",
+      "venue": "IST 416 / FN",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21MAB201T",
+          "subjectName": "Transforms and Boundary Value Problems",
+          "faculty": "Dr. C. Arun Kumar",
+          "department": "AP/Maths",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21ECC201T",
+          "subjectName": "Solid State Devices",
+          "faculty": "Dr. Jeevanantham S",
+          "department": "AP/ECE-DS",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21CSS201T",
+          "subjectName": "Computer Organization and Architecture",
+          "faculty": "Dr. P. Murugapandiyan",
+          "department": "Prof./ECE",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21ECC203T",
+          "subjectName": "Digital Logic Design",
+          "faculty": "Dr. S. Krishnakumar",
+          "department": "AP/ECE-DS",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21ECC205T",
+          "subjectName": "Electromagnetic Theory and Interference",
+          "faculty": "Dr. V. Bharathi",
+          "department": "AP/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21LEM201T",
+          "subjectName": "Professional Ethics",
+          "faculty": "Dr. Jothi M",
+          "department": "AP/ECE",
+          "credits": "1-0-0-0",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "G",
+          "subjectCode": "21LEM202T",
+          "subjectName": "Universal Human Values-II",
+          "faculty": "Mrs. N. Suganthi",
+          "department": "RS - ECE",
+          "credits": "2-1-0-3",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "H",
+          "subjectCode": "21PDM201L",
+          "subjectName": "Verbal Reasoning",
+          "faculty": "CDC - TB -106",
+          "department": "CDC",
+          "credits": "0-0-2-0",
+          "classType": "other",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "I",
+          "subjectCode": "21PDH209T",
+          "subjectName": "Social Engineering",
+          "faculty": "Mrs. D. Lavanya",
+          "department": "RS - ECE",
+          "credits": "2-0-0-2",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS A"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21ECC211L",
+          "subjectName": "Devices and Digital IC Laboratory",
+          "faculty": "Dr. Jeevanantham S / Dr. V. Bharathi",
+          "department": "AP/ECE-DS / AP/ECE",
+          "credits": "0-0-4-2",
+          "classType": "lab",
+          "sectionName": "II - ECE - DS A"
+        }
+      ],
+      "timetable": [
+        { "section": "II - ECE - DS A", "day": "Monday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "E", "subjectCode": "21ECC205T", "subjectName": "Electromagnetic Theory and Interference", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Monday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Monday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "I", "subjectCode": "21PDH209T", "subjectName": "Social Engineering", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Monday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "I", "subjectCode": "21PDH209T", "subjectName": "Social Engineering", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Monday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Monday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Monday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "LAB", "subjectCode": "21ECC211L", "subjectName": "Devices and Digital IC Laboratory", "classType": "lab" },
+        { "section": "II - ECE - DS A", "day": "Monday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "LAB", "subjectCode": "21ECC211L", "subjectName": "Devices and Digital IC Laboratory", "classType": "lab" },
+
+        { "section": "II - ECE - DS A", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21CSS201T", "subjectName": "Computer Organization and Architecture", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Tuesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "E", "subjectCode": "21ECC205T", "subjectName": "Electromagnetic Theory and Interference", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Tuesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "D", "subjectCode": "21ECC203T", "subjectName": "Digital Logic Design", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Tuesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Tuesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Tuesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+        { "section": "II - ECE - DS A", "day": "Tuesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+
+        { "section": "II - ECE - DS A", "day": "Wednesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Wednesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "B", "subjectCode": "21ECC201T", "subjectName": "Solid State Devices", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Wednesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "C", "subjectCode": "21CSS201T", "subjectName": "Computer Organization and Architecture", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Wednesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "D", "subjectCode": "21ECC203T", "subjectName": "Digital Logic Design", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Wednesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+
+        { "section": "II - ECE - DS A", "day": "Thursday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "B", "subjectCode": "21ECC201T", "subjectName": "Solid State Devices", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Thursday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "C", "subjectCode": "21CSS201T", "subjectName": "Computer Organization and Architecture", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Thursday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Thursday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "F", "subjectCode": "21LEM201T", "subjectName": "Professional Ethics", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Thursday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "LAB", "subjectCode": "21ECC211L", "subjectName": "Devices and Digital IC Laboratory", "classType": "lab" },
+        { "section": "II - ECE - DS A", "day": "Thursday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "LAB", "subjectCode": "21ECC211L", "subjectName": "Devices and Digital IC Laboratory", "classType": "lab" },
+
+        { "section": "II - ECE - DS A", "day": "Friday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "D", "subjectCode": "21ECC203T", "subjectName": "Digital Logic Design", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Friday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "B", "subjectCode": "21ECC201T", "subjectName": "Solid State Devices", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Friday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "E", "subjectCode": "21ECC205T", "subjectName": "Electromagnetic Theory and Interference", "classType": "theory" },
+        { "section": "II - ECE - DS A", "day": "Friday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "C", "subjectCode": "21CSS201T", "subjectName": "Computer Organization and Architecture", "classType": "theory" }
+      ]
+    },
+    {
+      "sectionName": "II - ECE - DS B",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester III)",
+      "shift": "Afternoon",
+      "venue": "IST 411 / AN",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21MAB201T",
+          "subjectName": "Transforms and Boundary Value Problems",
+          "faculty": "NEW FACULTY 3",
+          "department": "AP/MAT",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21ECC201T",
+          "subjectName": "Solid State Devices",
+          "faculty": "Dr. Jeevanantham S",
+          "department": "AP/ECE DS",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21CSS201T",
+          "subjectName": "Computer Organization and Architecture",
+          "faculty": "Dr. P. Murugapandiyan",
+          "department": "Prof./ECE",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21ECC203T",
+          "subjectName": "Digital Logic Design",
+          "faculty": "Dr. S. Krishnakumar",
+          "department": "AP/ECE DS",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21ECC205T",
+          "subjectName": "Electromagnetic Theory and Interference",
+          "faculty": "Dr. V. Bharathi",
+          "department": "AP/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21LEM201T",
+          "subjectName": "Professional Ethics",
+          "faculty": "Dr. K. Vigneshwaran",
+          "department": "AP/ECE",
+          "credits": "1-0-0-0",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "G",
+          "subjectCode": "21LEM202T",
+          "subjectName": "Universal Human Values-II",
+          "faculty": "Mrs. D. Lavanya",
+          "department": "RS - ECE",
+          "credits": "2-1-0-3",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "H",
+          "subjectCode": "21PDM201L",
+          "subjectName": "Verbal Reasoning",
+          "faculty": "CDC-TB-106",
+          "department": "CDC",
+          "credits": "0-0-2-0",
+          "classType": "other",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "I",
+          "subjectCode": "21PDH209T",
+          "subjectName": "Social Engineering",
+          "faculty": "Mrs. D. Lavanya",
+          "department": "RS - ECE",
+          "credits": "2-0-0-2",
+          "classType": "theory",
+          "sectionName": "II - ECE - DS B"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21ECC211L",
+          "subjectName": "Devices and Digital IC Laboratory",
+          "faculty": "Dr. S. Krishnakumar",
+          "department": "AP/ECE DS",
+          "credits": "0-0-4-2",
+          "classType": "lab",
+          "sectionName": "II - ECE - DS B"
+        }
+      ],
+      "timetable": [
+        { "section": "II - ECE - DS B", "day": "Monday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "LAB", "subjectCode": "21ECC211L", "subjectName": "Devices and Digital IC Laboratory", "classType": "lab" },
+        { "section": "II - ECE - DS B", "day": "Monday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "LAB", "subjectCode": "21ECC211L", "subjectName": "Devices and Digital IC Laboratory", "classType": "lab" },
+        { "section": "II - ECE - DS B", "day": "Monday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "D", "subjectCode": "21ECC203T", "subjectName": "Digital Logic Design", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Monday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "B", "subjectCode": "21ECC201T", "subjectName": "Solid State Devices", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Monday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "C", "subjectCode": "21CSS201T", "subjectName": "Computer Organization and Architecture", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Monday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "I", "subjectCode": "21PDH209T", "subjectName": "Social Engineering", "classType": "theory" },
+
+        { "section": "II - ECE - DS B", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "LAB", "subjectCode": "21ECC211L", "subjectName": "Devices and Digital IC Laboratory", "classType": "lab" },
+        { "section": "II - ECE - DS B", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "LAB", "subjectCode": "21ECC211L", "subjectName": "Devices and Digital IC Laboratory", "classType": "lab" },
+        { "section": "II - ECE - DS B", "day": "Tuesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "C", "subjectCode": "21CSS201T", "subjectName": "Computer Organization and Architecture", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Tuesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "D", "subjectCode": "21ECC203T", "subjectName": "Digital Logic Design", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Tuesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "E", "subjectCode": "21ECC205T", "subjectName": "Electromagnetic Theory and Interference", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Tuesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+
+        { "section": "II - ECE - DS B", "day": "Wednesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Wednesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Wednesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "I", "subjectCode": "21PDH209T", "subjectName": "Social Engineering", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Wednesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "E", "subjectCode": "21ECC205T", "subjectName": "Electromagnetic Theory and Interference", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Wednesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Wednesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "D", "subjectCode": "21ECC203T", "subjectName": "Digital Logic Design", "classType": "theory" },
+
+        { "section": "II - ECE - DS B", "day": "Thursday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Thursday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "G", "subjectCode": "21LEM202T", "subjectName": "Universal Human Values-II", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Thursday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+        { "section": "II - ECE - DS B", "day": "Thursday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+        { "section": "II - ECE - DS B", "day": "Thursday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Thursday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "C", "subjectCode": "21CSS201T", "subjectName": "Computer Organization and Architecture", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Thursday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "B", "subjectCode": "21ECC201T", "subjectName": "Solid State Devices", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Thursday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "E", "subjectCode": "21ECC205T", "subjectName": "Electromagnetic Theory and Interference", "classType": "theory" },
+
+        { "section": "II - ECE - DS B", "day": "Friday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+        { "section": "II - ECE - DS B", "day": "Friday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "H", "subjectCode": "21PDM201L", "subjectName": "Verbal Reasoning", "classType": "other" },
+        { "section": "II - ECE - DS B", "day": "Friday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "F", "subjectCode": "21LEM201T", "subjectName": "Professional Ethics", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Friday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "A", "subjectCode": "21MAB201T", "subjectName": "Transforms and Boundary Value Problems", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Friday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "B", "subjectCode": "21ECC201T", "subjectName": "Solid State Devices", "classType": "theory" },
+        { "section": "II - ECE - DS B", "day": "Friday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "C", "subjectCode": "21CSS201T", "subjectName": "Computer Organization and Architecture", "classType": "theory" }
+      ]
+    },
+    {
+      "sectionName": "III - BME",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester V)",
+      "shift": "Afternoon",
+      "venue": "IST 211 / AN",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21MAB301T",
+          "subjectName": "Probability and Statistics",
+          "faculty": "Dr. K. M. Karuppusamy",
+          "department": "AP/Maths",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21BMC302J",
+          "subjectName": "Microcontrollers and Its Application in Medicine",
+          "faculty": "Dr. K. Vigneshwaran",
+          "department": "ASP/ECE",
+          "credits": "3-0-2-4",
+          "classType": "theory",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21BMC301J",
+          "subjectName": "Biomedical Signal Processing",
+          "faculty": "Dr. V. N. Senthilkumaran",
+          "department": "ASP & HOD / ECE",
+          "credits": "3-0-2-4",
+          "classType": "theory",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21BME266T",
+          "subjectName": "Biometrics",
+          "faculty": "Dr. G. Gifta",
+          "department": "AP/BME",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21ECO103T",
+          "subjectName": "Modern wireless communication system",
+          "faculty": "Dr. Vaishnavi",
+          "department": "AP/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21BMC303T",
+          "subjectName": "Principles of Medical Imaging",
+          "faculty": "Dr. N. Prasana venkatesh",
+          "department": "AP/BME",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "G",
+          "subjectCode": "21PDM301L",
+          "subjectName": "Analytical and Logical Thinking Skills",
+          "faculty": "CDC-625",
+          "department": "CDC",
+          "credits": "0-0-2-0",
+          "classType": "other",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "H",
+          "subjectCode": "21LEM301T",
+          "subjectName": "Indian Art Form",
+          "faculty": "Dr. G. Gifta",
+          "department": "AP/BME",
+          "credits": "1-0-0-0",
+          "classType": "theory",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "I",
+          "subjectCode": "21GNP301L",
+          "subjectName": "Community Connect",
+          "faculty": "Dr. J. Jencia / Dr. N. Prasanna Venkatesh",
+          "department": "AP/BME",
+          "credits": "0-0-2-1",
+          "classType": "other",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21BMC302J_LAB",
+          "subjectName": "Microcontrollers Laboratory (MPMC LAB-107)",
+          "faculty": "Dr. K. Vigneshwaran",
+          "department": "ASP/ECE",
+          "credits": "0-0-2-1",
+          "classType": "lab",
+          "sectionName": "III - BME"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21BMC301J_LAB",
+          "subjectName": "Biomedical Signal Processing Laboratory (BIO DSP LAB-108)",
+          "faculty": "Dr. V. N. Senthilkumaran",
+          "department": "ASP & HOD / ECE",
+          "credits": "0-0-2-1",
+          "classType": "lab",
+          "sectionName": "III - BME"
+        }
+      ],
+      "timetable": [
+        { "section": "III - BME", "day": "Monday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and Logical Thinking Skills", "classType": "other" },
+        { "section": "III - BME", "day": "Monday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and Logical Thinking Skills", "classType": "other" },
+        { "section": "III - BME", "day": "Monday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "LAB", "subjectCode": "21BMC302J_LAB", "subjectName": "Microcontrollers Laboratory (MPMC LAB-107)", "classType": "lab" },
+        { "section": "III - BME", "day": "Monday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "LAB", "subjectCode": "21BMC302J_LAB", "subjectName": "Microcontrollers Laboratory (MPMC LAB-107)", "classType": "lab" },
+        { "section": "III - BME", "day": "Monday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "E", "subjectCode": "21ECO103T", "subjectName": "Modern wireless communication system", "classType": "theory" },
+        { "section": "III - BME", "day": "Monday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "B", "subjectCode": "21BMC302J", "subjectName": "Microcontrollers and Its Application in Medicine", "classType": "theory" },
+        { "section": "III - BME", "day": "Monday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "F", "subjectCode": "21BMC303T", "subjectName": "Principles of Medical Imaging", "classType": "theory" },
+        { "section": "III - BME", "day": "Monday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "H", "subjectCode": "21LEM301T", "subjectName": "Indian Art Form", "classType": "theory" },
+
+        { "section": "III - BME", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "LAB", "subjectCode": "21BMC301J_LAB", "subjectName": "Biomedical Signal Processing Laboratory (BIO DSP LAB-108)", "classType": "lab" },
+        { "section": "III - BME", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "LAB", "subjectCode": "21BMC301J_LAB", "subjectName": "Biomedical Signal Processing Laboratory (BIO DSP LAB-108)", "classType": "lab" },
+        { "section": "III - BME", "day": "Tuesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and Logical Thinking Skills", "classType": "other" },
+        { "section": "III - BME", "day": "Tuesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and Logical Thinking Skills", "classType": "other" },
+        { "section": "III - BME", "day": "Tuesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "C", "subjectCode": "21BMC301J", "subjectName": "Biomedical Signal Processing", "classType": "theory" },
+        { "section": "III - BME", "day": "Tuesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "D", "subjectCode": "21BME266T", "subjectName": "Biometrics", "classType": "theory" },
+        { "section": "III - BME", "day": "Tuesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "A", "subjectCode": "21MAB301T", "subjectName": "Probability and Statistics", "classType": "theory" },
+        { "section": "III - BME", "day": "Tuesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "B", "subjectCode": "21BMC302J", "subjectName": "Microcontrollers and Its Application in Medicine", "classType": "theory" },
+
+        { "section": "III - BME", "day": "Wednesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "C", "subjectCode": "21BMC301J", "subjectName": "Biomedical Signal Processing", "classType": "theory" },
+        { "section": "III - BME", "day": "Wednesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "A", "subjectCode": "21MAB301T", "subjectName": "Probability and Statistics", "classType": "theory" },
+        { "section": "III - BME", "day": "Wednesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "F", "subjectCode": "21BMC303T", "subjectName": "Principles of Medical Imaging", "classType": "theory" },
+        { "section": "III - BME", "day": "Wednesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "D", "subjectCode": "21BME266T", "subjectName": "Biometrics", "classType": "theory" },
+
+        { "section": "III - BME", "day": "Thursday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "I", "subjectCode": "21GNP301L", "subjectName": "Community Connect", "classType": "other" },
+        { "section": "III - BME", "day": "Thursday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "A", "subjectCode": "21MAB301T", "subjectName": "Probability and Statistics", "classType": "theory" },
+        { "section": "III - BME", "day": "Thursday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "C", "subjectCode": "21BMC301J", "subjectName": "Biomedical Signal Processing", "classType": "theory" },
+        { "section": "III - BME", "day": "Thursday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "E", "subjectCode": "21ECO103T", "subjectName": "Modern wireless communication system", "classType": "theory" },
+        { "section": "III - BME", "day": "Thursday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "B", "subjectCode": "21BMC302J", "subjectName": "Microcontrollers and Its Application in Medicine", "classType": "theory" },
+
+        { "section": "III - BME", "day": "Friday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "I", "subjectCode": "21GNP301L", "subjectName": "Community Connect", "classType": "other" },
+        { "section": "III - BME", "day": "Friday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "I", "subjectCode": "21GNP301L", "subjectName": "Community Connect", "classType": "other" },
+        { "section": "III - BME", "day": "Friday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "F", "subjectCode": "21BMC303T", "subjectName": "Principles of Medical Imaging", "classType": "theory" },
+        { "section": "III - BME", "day": "Friday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "A", "subjectCode": "21MAB301T", "subjectName": "Probability and Statistics", "classType": "theory" },
+        { "section": "III - BME", "day": "Friday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "D", "subjectCode": "21BME266T", "subjectName": "Biometrics", "classType": "theory" },
+        { "section": "III - BME", "day": "Friday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "E", "subjectCode": "21ECO103T", "subjectName": "Modern wireless communication system", "classType": "theory" }
+      ]
+    },
+    {
+      "sectionName": "III ECE-A",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester V)",
+      "shift": "Forenoon",
+      "venue": "IST 518/FN",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21MAB302T",
+          "subjectName": "Discrete Mathematics",
+          "faculty": "New Faculty 3",
+          "department": "AP/Maths",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21ECC301P",
+          "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques",
+          "faculty": "Dr. M. Manikandan",
+          "department": "AP/ECE",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "B-Proj",
+          "subjectCode": "21ECC301P_PROJ",
+          "subjectName": "Microprocessor Project Component",
+          "faculty": "Dr. M. Manikandan",
+          "department": "AP/ECE",
+          "credits": "0-0-2-1",
+          "classType": "project",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21ECC303T",
+          "subjectName": "VLSI Design and Technology",
+          "faculty": "Dr. M. Jothi",
+          "department": "AP/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21ECE468T",
+          "subjectName": "System and Network on Chip",
+          "faculty": "Dr. V. Manikandan",
+          "department": "AP/ECE-DS",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21CSO355T",
+          "subjectName": "Machine learning for all",
+          "faculty": "Dr. J. Jencia",
+          "department": "AP/BME",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21GNP301L",
+          "subjectName": "Community connect",
+          "faculty": "Dr. V. Rajesh / Dr. V. Bharathi",
+          "department": "AP/ECE",
+          "credits": "0-0-2-1",
+          "classType": "other",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "G",
+          "subjectCode": "21PDM301L",
+          "subjectName": "Analytical and logical thinking skills",
+          "faculty": "CDC / 625",
+          "department": "CDC",
+          "credits": "0-0-2-0",
+          "classType": "other",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "H",
+          "subjectCode": "21LEM301T",
+          "subjectName": "Indian Art Form",
+          "faculty": "Dr. K. Vigneshwaran",
+          "department": "AP/ECE",
+          "credits": "1-0-0-0",
+          "classType": "theory",
+          "sectionName": "III ECE-A"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21ECC311L",
+          "subjectName": "VLSI Design/ Microprocessor Laboratory",
+          "faculty": "Dr. M. Jothi & Dr. P. Murugapandiyan / Dr. V. Manikandan",
+          "department": "AP/ECE, Prof./ECE, AP/ECE-DS",
+          "credits": "0-0-4-2",
+          "classType": "lab",
+          "sectionName": "III ECE-A"
+        }
+      ],
+      "timetable": [
+        { "section": "III ECE-A", "day": "Monday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "E", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Monday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Monday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Monday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Monday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+        { "section": "III ECE-A", "day": "Monday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+
+        { "section": "III ECE-A", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "H", "subjectCode": "21LEM301T", "subjectName": "Indian Art Form", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "D", "subjectCode": "21ECE468T", "subjectName": "System and Network on Chip", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Tuesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Tuesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "B-Proj", "subjectCode": "21ECC301P_PROJ", "subjectName": "Microprocessor Project Component", "classType": "project" },
+        { "section": "III ECE-A", "day": "Tuesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+
+        { "section": "III ECE-A", "day": "Wednesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Wednesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Wednesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "D", "subjectCode": "21ECE468T", "subjectName": "System and Network on Chip", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Wednesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "F", "subjectCode": "21GNP301L", "subjectName": "Community connect", "classType": "other" },
+        { "section": "III ECE-A", "day": "Wednesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+        { "section": "III ECE-A", "day": "Wednesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+
+        { "section": "III ECE-A", "day": "Thursday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Thursday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "E", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Thursday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Thursday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "F", "subjectCode": "21GNP301L", "subjectName": "Community connect", "classType": "other" },
+
+        { "section": "III ECE-A", "day": "Friday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "D", "subjectCode": "21ECE468T", "subjectName": "System and Network on Chip", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Friday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Friday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "E", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Friday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+        { "section": "III ECE-A", "day": "Friday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+        { "section": "III ECE-A", "day": "Friday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" }
+      ]
+    },
+    {
+      "sectionName": "III ECE-B",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester V)",
+      "shift": "Afternoon",
+      "venue": "IST 518/AN",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21MAB302T",
+          "subjectName": "Discrete Mathematics",
+          "faculty": "Dr. M. Thanga Rejini",
+          "department": "AP/Maths",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21ECC301P",
+          "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques",
+          "faculty": "Mrs. B. Abirami",
+          "department": "EO/SRMIST",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "B-Proj",
+          "subjectCode": "21ECC301P_PROJ",
+          "subjectName": "Microprocessor Project Component",
+          "faculty": "Mrs. B. Abirami",
+          "department": "EO/SRMIST",
+          "credits": "0-0-2-1",
+          "classType": "project",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21ECC303T",
+          "subjectName": "VLSI Design and Technology",
+          "faculty": "Dr. R. Vinoth Raj",
+          "department": "AP/ECE-DS",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21ECE468T",
+          "subjectName": "System and Network on Chip",
+          "faculty": "Dr. V. Manikandan",
+          "department": "AP/ECE-DS",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21CSO355T",
+          "subjectName": "Machine learning for all",
+          "faculty": "Dr. J. Jencia",
+          "department": "AP/BME",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21GNP301L",
+          "subjectName": "Community connect",
+          "faculty": "Dr. H. Sudharsan / Ms. T. Swetha",
+          "department": "AP/ECE",
+          "credits": "0-0-2-1",
+          "classType": "other",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "G",
+          "subjectCode": "21PDM301L",
+          "subjectName": "Analytical and logical thinking skills",
+          "faculty": "CDC - 625",
+          "department": "CDC",
+          "credits": "0-0-2-0",
+          "classType": "other",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "H",
+          "subjectCode": "21LEM301T",
+          "subjectName": "Indian Art Form",
+          "faculty": "Dr. A. Anand",
+          "department": "AP/ECE",
+          "credits": "1-0-0-0",
+          "classType": "theory",
+          "sectionName": "III ECE-B"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21ECC311L",
+          "subjectName": "VLSI Design/ Microprocessor Laboratory",
+          "faculty": "Dr. Sreenivasa Ijada Rao / Dr. B. DeviSri & Dr. Prasanna Venkatesh",
+          "department": "Prof./ECE, AP/ECE, AP/BME",
+          "credits": "0-0-4-2",
+          "classType": "lab",
+          "sectionName": "III ECE-B"
+        }
+      ],
+      "timetable": [
+        { "section": "III ECE-B", "day": "Monday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+        { "section": "III ECE-B", "day": "Monday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+        { "section": "III ECE-B", "day": "Monday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "E", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Monday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Monday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Monday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "D", "subjectCode": "21ECE468T", "subjectName": "System and Network on Chip", "classType": "theory" },
+
+        { "section": "III ECE-B", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+        { "section": "III ECE-B", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+        { "section": "III ECE-B", "day": "Tuesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "F", "subjectCode": "21GNP301L", "subjectName": "Community connect", "classType": "other" },
+        { "section": "III ECE-B", "day": "Tuesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Tuesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "D", "subjectCode": "21ECE468T", "subjectName": "System and Network on Chip", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Tuesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+
+        { "section": "III ECE-B", "day": "Wednesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+        { "section": "III ECE-B", "day": "Wednesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+        { "section": "III ECE-B", "day": "Wednesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "B-Proj", "subjectCode": "21ECC301P_PROJ", "subjectName": "Microprocessor Project Component", "classType": "project" },
+        { "section": "III ECE-B", "day": "Wednesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Wednesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Wednesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "H", "subjectCode": "21LEM301T", "subjectName": "Indian Art Form", "classType": "theory" },
+
+        { "section": "III ECE-B", "day": "Thursday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+        { "section": "III ECE-B", "day": "Thursday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+        { "section": "III ECE-B", "day": "Thursday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Thursday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Thursday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "E", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Thursday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "F", "subjectCode": "21GNP301L", "subjectName": "Community connect", "classType": "other" },
+
+        { "section": "III ECE-B", "day": "Friday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Friday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Friday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "E", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-B", "day": "Friday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "D", "subjectCode": "21ECE468T", "subjectName": "System and Network on Chip", "classType": "theory" }
+      ]
+    },
+    {
+      "sectionName": "III ECE-DS",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester V)",
+      "shift": "Forenoon",
+      "venue": "IST 519/FN",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21MAB302T",
+          "subjectName": "Discrete Mathematics",
+          "faculty": "New faculty 2",
+          "department": "AP/Maths",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21ECC301P",
+          "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques",
+          "faculty": "Mrs. B. Abirami",
+          "department": "EO/SRMIST",
+          "credits": "3-1-0-4",
+          "classType": "theory",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "B-Proj",
+          "subjectCode": "21ECC301P_PROJ",
+          "subjectName": "Microprocessor Project Component",
+          "faculty": "Mrs. B. Abirami",
+          "department": "EO/SRMIST",
+          "credits": "0-0-2-1",
+          "classType": "project",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21ECC303T",
+          "subjectName": "VLSI Design and Technology",
+          "faculty": "Dr. R. Vinoth Raj",
+          "department": "AP/ECE-DS",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21CSO355T",
+          "subjectName": "Machine learning for all",
+          "faculty": "Dr. Dr. Chitra Devi",
+          "department": "ASP/SoC",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21ECE371T",
+          "subjectName": "Database Design and Management",
+          "faculty": "Dr. S. Saraswathi",
+          "department": "AP/SoC",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21GNP301L",
+          "subjectName": "Community connect",
+          "faculty": "Dr. S. Jeevanantham / Dr. V. Manikandan",
+          "department": "AP/ECE-DS",
+          "credits": "0-0-2-1",
+          "classType": "other",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "G",
+          "subjectCode": "21PDM301L",
+          "subjectName": "Analytical and logical thinking skills",
+          "faculty": "CDC-625",
+          "department": "CDC",
+          "credits": "0-0-2-0",
+          "classType": "other",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "H",
+          "subjectCode": "21LEM301T",
+          "subjectName": "Indian Art Form",
+          "faculty": "Dr. Prabin Kumar Bera",
+          "department": "AP/ECE",
+          "credits": "1-0-0-0",
+          "classType": "theory",
+          "sectionName": "III ECE-DS"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21ECC311L",
+          "subjectName": "VLSI Design/ Microprocessor Laboratory",
+          "faculty": "Dr. R. Vinothraj / Dr. H. Sri Bhuvaneshwari",
+          "department": "AP/ECE DS, AP/ECE",
+          "credits": "0-0-4-2",
+          "classType": "lab",
+          "sectionName": "III ECE-DS"
+        }
+      ],
+      "timetable": [
+        { "section": "III ECE-DS", "day": "Monday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "E", "subjectCode": "21ECE371T", "subjectName": "Database Design and Management", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Monday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Monday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Monday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+
+        { "section": "III ECE-DS", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Tuesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "D", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Tuesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "F", "subjectCode": "21GNP301L", "subjectName": "Community connect", "classType": "other" },
+        { "section": "III ECE-DS", "day": "Tuesday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+        { "section": "III ECE-DS", "day": "Tuesday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+
+        { "section": "III ECE-DS", "day": "Wednesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "H", "subjectCode": "21LEM301T", "subjectName": "Indian Art Form", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Wednesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "B", "subjectCode": "21ECC301P", "subjectName": "Microprocessor, Microcontroller, and Interfacing Techniques", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Wednesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Wednesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "C", "subjectCode": "21ECC303T", "subjectName": "VLSI Design and Technology", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Wednesday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+        { "section": "III ECE-DS", "day": "Wednesday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+
+        { "section": "III ECE-DS", "day": "Thursday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Thursday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "D", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Thursday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "E", "subjectCode": "21ECE371T", "subjectName": "Database Design and Management", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Thursday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "F", "subjectCode": "21GNP301L", "subjectName": "Community connect", "classType": "other" },
+
+        { "section": "III ECE-DS", "day": "Friday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "D", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Friday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21MAB302T", "subjectName": "Discrete Mathematics", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Friday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "E", "subjectCode": "21ECE371T", "subjectName": "Database Design and Management", "classType": "theory" },
+        { "section": "III ECE-DS", "day": "Friday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "B-Proj", "subjectCode": "21ECC301P_PROJ", "subjectName": "Microprocessor Project Component", "classType": "project" },
+        { "section": "III ECE-DS", "day": "Friday", "period": 6, "startTime": "13:20", "endTime": "14:10", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+        { "section": "III ECE-DS", "day": "Friday", "period": 7, "startTime": "14:10", "endTime": "15:00", "slot": "G", "subjectCode": "21PDM301L", "subjectName": "Analytical and logical thinking skills", "classType": "other" },
+        { "section": "III ECE-DS", "day": "Friday", "period": 8, "startTime": "15:10", "endTime": "16:00", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" },
+        { "section": "III ECE-DS", "day": "Friday", "period": 9, "startTime": "16:00", "endTime": "16:50", "slot": "LAB", "subjectCode": "21ECC311L", "subjectName": "VLSI Design/ Microprocessor Laboratory", "classType": "lab" }
+      ]
+    },
+    {
+      "sectionName": "IV ECE-A",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester VII)",
+      "shift": "Forenoon",
+      "venue": "IST 225",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21GNH401T",
+          "subjectName": "Behavioural Psychology",
+          "faculty": "Dr. A. Anand",
+          "department": "AP/ECE",
+          "credits": "2-1-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-A"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21ECC401T",
+          "subjectName": "Wireless Communication and Antenna Systems",
+          "faculty": "Dr. K. Vigneshwaran",
+          "department": "AP/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-A"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21ECC402P",
+          "subjectName": "Computer Communication and Network Security",
+          "faculty": "Dr. S. Jeevanantham",
+          "department": "AP/ECE-DS",
+          "credits": "2-1-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-A"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21ECE461T",
+          "subjectName": "Semiconductor Memory Design",
+          "faculty": "Dr. H. SriBhuvaneshwari",
+          "department": "AP/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-A"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21ECE463T",
+          "subjectName": "Scripting Language for Electronic Design Automation",
+          "faculty": "Dr. Sreenivasa Rao Ijada",
+          "department": "Prof/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-A"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21CSO355T",
+          "subjectName": "Machine learning for all",
+          "faculty": "Dr. N. Prasanna Venkatesh",
+          "department": "AP/BME",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-A"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21ECC402P_LAB",
+          "subjectName": "Computer Communication and Network Security Laboratory",
+          "faculty": "Mrs. T. Swetha",
+          "department": "AP/ECE",
+          "credits": "0-0-2-1",
+          "classType": "lab",
+          "sectionName": "IV ECE-A"
+        }
+      ],
+      "timetable": [
+        { "section": "IV ECE-A", "day": "Monday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21ECC402P", "subjectName": "Computer Communication and Network Security", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Monday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "A", "subjectCode": "21GNH401T", "subjectName": "Behavioural Psychology", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Monday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "D", "subjectCode": "21ECE461T", "subjectName": "Semiconductor Memory Design", "classType": "theory" },
+
+        { "section": "IV ECE-A", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21ECC402P", "subjectName": "Computer Communication and Network Security", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "D", "subjectCode": "21ECE461T", "subjectName": "Semiconductor Memory Design", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Tuesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "B", "subjectCode": "21ECC401T", "subjectName": "Wireless Communication and Antenna Systems", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Tuesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "F", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+
+        { "section": "IV ECE-A", "day": "Wednesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "B", "subjectCode": "21ECC401T", "subjectName": "Wireless Communication and Antenna Systems", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Wednesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "LAB", "subjectCode": "21ECC402P_LAB", "subjectName": "Computer Communication and Network Security Laboratory", "classType": "lab" },
+        { "section": "IV ECE-A", "day": "Wednesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "E", "subjectCode": "21ECE463T", "subjectName": "Scripting Language for Electronic Design Automation", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Wednesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "F", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+
+        { "section": "IV ECE-A", "day": "Thursday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "F", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Thursday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21GNH401T", "subjectName": "Behavioural Psychology", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Thursday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "E", "subjectCode": "21ECE463T", "subjectName": "Scripting Language for Electronic Design Automation", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Thursday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "B", "subjectCode": "21ECC401T", "subjectName": "Wireless Communication and Antenna Systems", "classType": "theory" },
+
+        { "section": "IV ECE-A", "day": "Friday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21ECC402P", "subjectName": "Computer Communication and Network Security", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Friday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21GNH401T", "subjectName": "Behavioural Psychology", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Friday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "D", "subjectCode": "21ECE461T", "subjectName": "Semiconductor Memory Design", "classType": "theory" },
+        { "section": "IV ECE-A", "day": "Friday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "E", "subjectCode": "21ECE463T", "subjectName": "Scripting Language for Electronic Design Automation", "classType": "theory" }
+      ]
+    },
+    {
+      "sectionName": "IV ECE-B",
+      "academicYear": "2026-2027",
+      "semester": "Odd Semester (Semester VII)",
+      "shift": "Forenoon",
+      "venue": "IST 227",
+      "subjects": [
+        {
+          "subjectSlot": "A",
+          "subjectCode": "21GNH401T",
+          "subjectName": "Behavioural Psychology",
+          "faculty": "Dr. A. Annand",
+          "department": "AP/ECE",
+          "credits": "2-1-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-B"
+        },
+        {
+          "subjectSlot": "B",
+          "subjectCode": "21ECC401T",
+          "subjectName": "Wireless Communication and Antenna Systems",
+          "faculty": "Dr. K. Vigneshwaran",
+          "department": "AP/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-B"
+        },
+        {
+          "subjectSlot": "C",
+          "subjectCode": "21ECC402P",
+          "subjectName": "Computer Communication and Network Security",
+          "faculty": "Dr. R. Rajasekar",
+          "department": "ASP & HOD ECE - DS",
+          "credits": "2-1-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-B"
+        },
+        {
+          "subjectSlot": "D",
+          "subjectCode": "21ECE461T",
+          "subjectName": "Semiconductor Memory Design",
+          "faculty": "Dr. H. SriBhuvaneshwari",
+          "department": "AP/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-B"
+        },
+        {
+          "subjectSlot": "E",
+          "subjectCode": "21ECE463T",
+          "subjectName": "Scripting Language for Electronic Design Automation",
+          "faculty": "Dr. Sreenivasa Rao Ijada",
+          "department": "Prof/ECE",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-B"
+        },
+        {
+          "subjectSlot": "F",
+          "subjectCode": "21CSO355T",
+          "subjectName": "Machine learning for all",
+          "faculty": "Dr. N. Prasanna Venkatesh",
+          "department": "AP/BME",
+          "credits": "3-0-0-3",
+          "classType": "theory",
+          "sectionName": "IV ECE-B"
+        },
+        {
+          "subjectSlot": "LAB",
+          "subjectCode": "21ECC402P_LAB",
+          "subjectName": "Computer Communication and Network Security Laboratory",
+          "faculty": "Ms. T. Swetha",
+          "department": "AP/ECE",
+          "credits": "0-0-2-1",
+          "classType": "lab",
+          "sectionName": "IV ECE-B"
+        }
+      ],
+      "timetable": [
+        { "section": "IV ECE-B", "day": "Monday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21ECC402P", "subjectName": "Computer Communication and Network Security", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Monday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "A", "subjectCode": "21GNH401T", "subjectName": "Behavioural Psychology", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Monday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "E", "subjectCode": "21ECE463T", "subjectName": "Scripting Language for Electronic Design Automation", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Monday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "F", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+
+        { "section": "IV ECE-B", "day": "Tuesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21ECC402P", "subjectName": "Computer Communication and Network Security", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Tuesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "E", "subjectCode": "21ECE463T", "subjectName": "Scripting Language for Electronic Design Automation", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Tuesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "F", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Tuesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "B", "subjectCode": "21ECC401T", "subjectName": "Wireless Communication and Antenna Systems", "classType": "theory" },
+
+        { "section": "IV ECE-B", "day": "Wednesday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "C", "subjectCode": "21ECC402P", "subjectName": "Computer Communication and Network Security", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Wednesday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "D", "subjectCode": "21ECE461T", "subjectName": "Semiconductor Memory Design", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Wednesday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "A", "subjectCode": "21GNH401T", "subjectName": "Behavioural Psychology", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Wednesday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "B", "subjectCode": "21ECC401T", "subjectName": "Wireless Communication and Antenna Systems", "classType": "theory" },
+
+        { "section": "IV ECE-B", "day": "Thursday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "D", "subjectCode": "21ECE461T", "subjectName": "Semiconductor Memory Design", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Thursday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "B", "subjectCode": "21ECC401T", "subjectName": "Wireless Communication and Antenna Systems", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Thursday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "LAB", "subjectCode": "21ECC402P_LAB", "subjectName": "Computer Communication and Network Security Laboratory", "classType": "lab" },
+        { "section": "IV ECE-B", "day": "Thursday", "period": 4, "startTime": "11:40", "endTime": "12:30", "slot": "A", "subjectCode": "21GNH401T", "subjectName": "Behavioural Psychology", "classType": "theory" },
+
+        { "section": "IV ECE-B", "day": "Friday", "period": 1, "startTime": "09:00", "endTime": "09:50", "slot": "E", "subjectCode": "21ECE463T", "subjectName": "Scripting Language for Electronic Design Automation", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Friday", "period": 2, "startTime": "09:50", "endTime": "10:40", "slot": "D", "subjectCode": "21ECE461T", "subjectName": "Semiconductor Memory Design", "classType": "theory" },
+        { "section": "IV ECE-B", "day": "Friday", "period": 3, "startTime": "10:50", "endTime": "11:40", "slot": "F", "subjectCode": "21CSO355T", "subjectName": "Machine learning for all", "classType": "theory" }
+      ]
+    }
+  ]
+}

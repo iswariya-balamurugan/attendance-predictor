@@ -1,0 +1,42 @@
+{
+  "description": "Excluded sections from older academic years found in the dataset that do NOT belong to the 2026-27 challenge semester.",
+  "challengeSemester": {
+    "startDate": "2026-08-29",
+    "endDate": "2026-11-29",
+    "academicYear": "2026-2027"
+  },
+  "excludedSections": [
+    {
+      "sectionName": "I ECE-A",
+      "academicYear": "2024-2025",
+      "semester": "Odd Semester (Semester I)",
+      "sourcePdf": "I year Time Table SEEE.pdf",
+      "page": 1,
+      "reason": "Belongs to 2024-25 academic year (dated 03/01/2025), not the 2026-27 challenge semester."
+    },
+    {
+      "sectionName": "I ECE-B & EEE",
+      "academicYear": "2024-2025",
+      "semester": "Odd Semester (Semester I)",
+      "sourcePdf": "I year Time Table SEEE.pdf",
+      "page": 2,
+      "reason": "Belongs to 2024-25 academic year (dated 03/01/2025), not the 2026-27 challenge semester."
+    },
+    {
+      "sectionName": "I ECE-DS",
+      "academicYear": "2024-2025",
+      "semester": "Even Semester (Semester I/II)",
+      "sourcePdf": "I year Time Table SEEE.pdf",
+      "page": 3,
+      "reason": "Belongs to 2024-25 academic year Even Semester, not the 2026-27 challenge semester."
+    },
+    {
+      "sectionName": "I Biotech-B; Biomed. Engg.",
+      "academicYear": "2024-2025",
+      "semester": "Even Semester (Semester I/II)",
+      "sourcePdf": "I year Time Table SEEE.pdf",
+      "page": 4,
+      "reason": "Belongs to 2024-25 academic year Even Semester, not the 2026-27 challenge semester."
+    }
+  ]
+}
